@@ -8,6 +8,14 @@
 
 </div>
 
+---
+
+<div align="center">
+<h3>⚠️ Deprecated version in Python, please use the new version ⚠️</h3>
+</div>
+
+---
+
 MathGet is the official package manager for MathScript, making it easy to install, manage, and update MathScript packages. It's designed to be simple and efficient.
 
 ## Installation
